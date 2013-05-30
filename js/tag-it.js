@@ -243,6 +243,7 @@
                     if (
                         event.which === $.ui.keyCode.COMMA ||
                         event.which === $.ui.keyCode.ENTER ||
+                        event.which === 51 ||
                         (
                             event.which == $.ui.keyCode.TAB &&
                             that.tagInput.val() !== ''

@@ -1,5 +1,7 @@
 # Tag-it: a jQuery UI plugin
 
+2013-05-29: Added a check for the # key press to allow for people trying to enter multiple hashtags
+
 Tag-it is a simple and configurable tag editing widget with autocomplete support.
 
 [Homepage](http://aehlke.github.com/tag-it/)
